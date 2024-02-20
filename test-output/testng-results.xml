@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-20T10:29:38 IST" name="Suite" finished-at="2024-02-20T10:29:38 IST" duration-ms="0">
+    <groups>
+      <group name="sanity">
+        <method signature="TC_002_LoginTest.verify_login()[pri:0, instance:testCases.TC_002_LoginTest@7ce69770]" name="verify_login" class="testCases.TC_002_LoginTest"/>
+        <method signature="TC_002_LoginTest.verify_login()[pri:0, instance:testCases.TC_002_LoginTest@4bdeaabb]" name="verify_login" class="testCases.TC_002_LoginTest"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC_002_LoginTest.verify_login()[pri:0, instance:testCases.TC_002_LoginTest@7ce69770]" name="verify_login" class="testCases.TC_002_LoginTest"/>
+        <method signature="TC_004_SearchProductTest.verify_pruductSearch()[pri:0, instance:testCases.TC_004_SearchProductTest@1750fbeb]" name="verify_pruductSearch" class="testCases.TC_004_SearchProductTest"/>
+        <method signature="TC_005_AddToCartPageTest.verify_addToCart()[pri:0, instance:testCases.TC_005_AddToCartPageTest@5b247367]" name="verify_addToCart" class="testCases.TC_005_AddToCartPageTest"/>
+        <method signature="TC_006_EndToEndTest.endToendTest()[pri:0, instance:testCases.TC_006_EndToEndTest@268f106e]" name="endToendTest" class="testCases.TC_006_EndToEndTest"/>
+        <method signature="TC_002_LoginTest.verify_login()[pri:0, instance:testCases.TC_002_LoginTest@4bdeaabb]" name="verify_login" class="testCases.TC_002_LoginTest"/>
+        <method signature="TC_004_SearchProductTest.verify_pruductSearch()[pri:0, instance:testCases.TC_004_SearchProductTest@6c4906d3]" name="verify_pruductSearch" class="testCases.TC_004_SearchProductTest"/>
+        <method signature="TC_005_AddToCartPageTest.verify_addToCart()[pri:0, instance:testCases.TC_005_AddToCartPageTest@65987993]" name="verify_addToCart" class="testCases.TC_005_AddToCartPageTest"/>
+        <method signature="TC_006_EndToEndTest.endToendTest()[pri:0, instance:testCases.TC_006_EndToEndTest@71075444]" name="endToendTest" class="testCases.TC_006_EndToEndTest"/>
+      </group> <!-- master -->
+    </groups>
+  </suite> <!-- Suite -->
+</testng-results>
